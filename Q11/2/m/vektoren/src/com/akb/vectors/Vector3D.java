@@ -17,13 +17,11 @@ public class Vector3D {
 	}
 
 	public Vector3D add (Vector3D a) {
-		// TODO
-		return null;
+		return new Vector3D(this.z + a.z, this.x + a.x, this.y + a.y);
 	}
 
 	public Vector3D sub (Vector3D a) {
-		// TODO
-		return null;
+		return new Vector3D(this.z - a.z, this.x - a.x, this.y - a.y);
 	} 
 
 	public Vector3D crossMultiply (Vector3D v) {
