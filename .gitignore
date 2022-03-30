@@ -1,4 +1,4 @@
-rand.*
-rand$1.class
-
-Q11/1/.ignore
+.vscode/
+.ignore/
+*.ign
+*.log
