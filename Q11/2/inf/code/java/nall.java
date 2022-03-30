@@ -1,4 +1,3 @@
-package Q11.inf.code.java;
 
 import javax.swing.JFrame;
 import javax.swing.JPanel;
